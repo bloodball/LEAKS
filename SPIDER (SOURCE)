@@ -1,4 +1,4 @@
-
+--half credit goes to mizt for help
 setsimulationradius(math.huge, math.huge)
 
 local mouse = game.Players.LocalPlayer:GetMouse()
